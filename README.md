@@ -14,7 +14,7 @@ number of each contributors group.
 Aforementioned, we have implemented walking route compuataion using Orienteering problem appproach
 and used the score populariy matrix for computed weighted route.
 
-This research presents the use of socail media for developing context-aware walking routes
+This research presents the use of social media for developing context-aware walking routes
 adjusted to user's interest. The classification between tourists and locals allow
 to decide how to trade the one off against the other.
 
