@@ -1,5 +1,7 @@
 # Agile2020-SocialMedia-WalkingRoutes
 
+Title:Whom to Follow? A Comparison of Walking Routes Computed Based on Social Media Photos from Different Types of Contributors
+
 Published materials for submitted paper Agile 2020
 
 GENERAL
