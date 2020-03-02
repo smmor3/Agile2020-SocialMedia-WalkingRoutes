@@ -3,6 +3,7 @@
 Published materials for submitted paper Agile 2020
 
 GENERAL
+
 This study is investigating on computing walking routes based on 
 crowdsourced geotagged social media from Flikcr database. We aim to distinguish
 and classify between different groups of contirbutours of Flickr data. E.g.: tourism
