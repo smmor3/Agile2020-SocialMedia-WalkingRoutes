@@ -22,6 +22,7 @@ to decide how to trade the one off against the other.
 
 # Materials
 Nyc_100- includes Flickr photos that were used for the research
+
 OSMRoads- OSM netwrok that was used for routing computation
 
 # License
