@@ -20,3 +20,9 @@ This research presents the use of social media for developing context-aware walk
 adjusted to user's interest. The classification between tourists and locals allow
 to decide how to trade the one off against the other.
 
+# Materials
+Nyc_100- includes Flickr photos that were used for the research
+OSMRoads- OSM netwrok that was used for routing computation
+
+# License
+ licensed under GNU General Public License, see file LICENSE.
